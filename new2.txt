@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 night morning
+=======
+night2 morning
+>>>>>>> Stashed changes
